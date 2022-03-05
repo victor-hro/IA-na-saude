@@ -23,3 +23,5 @@ Engenheiro Eletricista | Centro Universitário do Leste de Minas Gerais.
   Título de especialista pela Sociedade Brasileira de Nefrologia;\
   Coordenador do núcleo de epidemiologia e estatística da Seplag;\
   Founder e CPO do iHealthy.
+
+Notebooks em construção...
